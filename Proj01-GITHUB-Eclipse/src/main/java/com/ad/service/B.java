@@ -5,6 +5,7 @@ public class B {
 	   int x=20;
 	   int y=30;
 	   int z=50;
+	   int t=60;
 	   
 	System.out.println("B.java file is made for making and reflecting some changes");
  
