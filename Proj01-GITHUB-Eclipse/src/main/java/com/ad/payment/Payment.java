@@ -7,6 +7,9 @@ public class Payment {
     	 
     	
      }
+     {
+    	 System.out.println("Task 456: Priority task is done before that task 123::");
+     }
      private void Systrace() {
 		System.out.println("Payment done by card");
 	}
