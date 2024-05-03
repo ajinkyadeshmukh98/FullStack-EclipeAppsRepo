@@ -13,4 +13,9 @@ public class Payment {
      private void Systrace() {
 		System.out.println("Payment done by card");
 	}
+     {
+    	 System.out.println("INITIATING STASHING TASK 132::");
+     }
+
+	
 }

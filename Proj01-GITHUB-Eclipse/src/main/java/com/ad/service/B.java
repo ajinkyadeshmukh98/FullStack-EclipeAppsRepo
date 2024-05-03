@@ -4,8 +4,7 @@ public class B {
    public static void main(String[] args) {
 	   int x=20;
 	   int y=30;
-
-	   long accno=5256;
+       long accno=5256;
 	   
 
 	   int z=50;
